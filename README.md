@@ -1,6 +1,7 @@
-# PRG -- Prasátko GUI
+PRG -- Prasátko GUI
+=============================
 
-![pokladnička](img/prasatko.png)
+<p  align="center"><img src="img/prasatko.png" alt=""></p>
 
 Vytvořte **grafickou** aplikaci, která simuluje výběr peněz z vašeho prasátka.
 V textovém souboru `umbilikus.txt` je uložen aktuální počet jednotlivých
